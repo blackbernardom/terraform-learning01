@@ -7,3 +7,4 @@
 *tf-cloud-init
 *tf-cloud-init.pub
 **/.terraform/*
+**.terraform.lock.hcl
